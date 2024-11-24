@@ -1,4 +1,5 @@
 #include <iostream>
+
 //приветсвие пользователя;
 int main() {
     std::string name;
