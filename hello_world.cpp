@@ -1,5 +1,5 @@
 #include <iostream>
-
+//a
 int main() {
     std::string name;
     std::cout << "Введите имя: ";
