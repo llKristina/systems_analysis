@@ -1,5 +1,4 @@
 #include <iostream>
-//конфликт
 int main() {
     std::string name;
     std::cout << "Введите имя: ";
